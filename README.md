@@ -129,3 +129,7 @@ harry potter joins isis [YTP].
 [hovering above] - act
 When something is levitating, whether it's a hand or a aeroplane. It's hovering above.
 Usually used when something occult occurs that needs reminisce of berserk.
+
+[ber] - act
+Sending a screenshot of b, e and r combined is a thing that started occuring
+while Berserk was being watched. It has no meaning yet became a tradition.
