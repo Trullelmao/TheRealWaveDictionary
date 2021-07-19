@@ -134,3 +134,8 @@ Usually used when something occult occurs that needs reminisce of berserk.
 Sending a screenshot of b, e and r combined is a thing that started occuring
 while Berserk was being watched. It has no meaning yet became a tradition.
 
+[pindis] - act
+When something is of pinnable quality in the dms one can send a message containing
+"pindis + reason for pindis" to save the moment and make it easier to find later 
+on in the future. It's mainly used as a result of the pin limit on Discord.
+
