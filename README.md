@@ -139,3 +139,11 @@ When something is of pinnable quality in the dms one can send a message containi
 "pindis + reason for pindis" to save the moment and make it easier to find later 
 on in the future. It's mainly used as a result of the pin limit on Discord.
 
+[mong, mong, monged] - varies 
+Monged means something isnt right. Could mean a person is of the dumb kind and 
+could mean an object is stupid or non functioning.
+
+[bog, bogging, bogged] - varies
+Bogged is similar to monged but in a sense that the person or object is less
+negatively impacted than mogged/monged.
+
