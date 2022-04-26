@@ -148,3 +148,8 @@ into something hobbed.
 Bogged is similar to monged but in a sense that the person or object is less
 negatively impacted than mogged/monged.
 
+[New af] - phrase
+When a wave brother says something is "New af" it means it's usually a regularly 
+occuring thing. Can be used when someone is sarcastically suprised about something.
+
+
