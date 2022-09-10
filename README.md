@@ -96,8 +96,9 @@ biffa baffa i'm gandalf.
 
 [jaj, jajj, JAjJAJA, etc]
 the combination of several J's and A's is a way to say "ok", "alright" and "whatever"
-all in one.
-usually executed once you don't know how to respond or can't think of something better.
+all in one. Can also be used as an replacement for laugther.
+If not used in a comical manner it's usually executed once you don't know how to 
+respond or can't think of something better.
 
 [arson] - act
 The cat will inevitably burn down the house.
@@ -152,4 +153,6 @@ negatively impacted than mogged/monged.
 When a wave brother says something is "New af" it means it's usually a regularly 
 occuring thing. Can be used when someone is sarcastically suprised about something.
 
+[Bing] - object
+A bing is defined as a small cylindrical object.
 
