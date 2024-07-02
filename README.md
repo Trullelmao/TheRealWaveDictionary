@@ -82,10 +82,10 @@ This word is often used to mention the other person in a wave way.
 [mag, maggot, magget] - descriptor
 maggot is a mokk, if directed towards yourself it means you've done something 
 mag is a disturbingly harsh mokk only used on enemies.
-magget is often used in a jokingly fashion.
+magget is often used to mokk the other person.
 
 [bingus] - word
-wave enhanced word of penis.
+bingus the cat.
 
 [dad is upstairs] - name 
 the w2g name trulle always uses in the w2g sessions after a catastrophic 
