@@ -157,3 +157,5 @@ occuring thing. Can be used when someone is sarcastically suprised about somethi
 [Bing] - object
 A bing is defined as a small cylindrical object.
 
+[Rerapp] - act
+Rerapp means to "retry" something.
