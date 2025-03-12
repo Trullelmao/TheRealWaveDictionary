@@ -159,3 +159,10 @@ A bing is defined as a small cylindrical object.
 
 [Rerapp] - act
 Rerapp means to "retry" something.
+
+[Beyond] - word
+When one uses the word "beyond" after a sentence, they add power to the statement.
+For example "fucked beyond" "funny beyond".
+Similar to how you would say "damaged beyond recognition" etc.
+
+
