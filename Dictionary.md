@@ -1,6 +1,8 @@
 # RealWaveDictionary
 Finest Wave words and the meaning of them.
 
+#Last updated 06 Nov 2025
+
 [Mokk, Mokking, Mokked] - act
 The word mokk originates from the word mock and is used when one person is mocking another.
 
@@ -95,7 +97,7 @@ the webpage one unfortunate evening.
 [biffa] - word
 biffa baffa i'm gandalf.
 
-[jaj, jajj, JAjJAJA, etc]
+[jaj, jajj, JAjJAJA, etc] - word
 the combination of several J's and A's is a way to say "ok", "alright" and "whatever"
 all in one. Can also be used as an replacement for laugther.
 If not used in a comical manner it's usually executed once you don't know how to 
@@ -167,3 +169,7 @@ Similar to how you would say "damaged beyond recognition" etc.
 
 [Squirm] - object
 Squirm is another word for slop food.
+
+[ooUUFf. ooOUUFF] - !spelling varies greatly! - descriptor
+Instead of generic normie profanity, one uses "ooOUUFF" to replace the word in question. It's used when the word that is replaced is obvious to what it is supposed to be
+The word is usually related to something taboo.
