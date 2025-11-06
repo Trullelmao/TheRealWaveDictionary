@@ -173,3 +173,7 @@ Squirm is another word for slop food.
 [ooUUFf. ooOUUFF] - !spelling varies greatly! - descriptor
 Instead of generic normie profanity, one uses "ooOUUFF" to replace the word in question. It's used when the word that is replaced is obvious to what it is supposed to be
 The word is usually related to something taboo.
+
+[W] - phrase
+Saying W in the chat is the universal wave word for "Threat nearby, proceed with caution" to warn the other of a nearby danger.
+The phrase was invented in the game R.E.P.O where it was found to be the quickest letter to type, while making a distinct "Double U" sound from the TTS.
